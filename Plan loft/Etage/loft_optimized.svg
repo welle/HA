@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="3276"
+   height="2457"
+   version="1.1"
+   viewBox="0 0 3276 2457"
+   xml:space="preserve"
+   id="svg4"
+   sodipodi:docname="loft_optimized.svg"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><defs
+   id="defs1" /><sodipodi:namedview
+   id="namedview1"
+   pagecolor="#ffffff"
+   bordercolor="#000000"
+   borderopacity="0.25"
+   inkscape:showpageshadow="2"
+   inkscape:pageopacity="0.0"
+   inkscape:pagecheckerboard="0"
+   inkscape:deskcolor="#d1d1d1"
+   inkscape:zoom="10.968357"
+   inkscape:cx="1333.4267"
+   inkscape:cy="1121.0886"
+   inkscape:window-width="2086"
+   inkscape:window-height="1237"
+   inkscape:window-x="2129"
+   inkscape:window-y="1545"
+   inkscape:window-maximized="0"
+   inkscape:current-layer="svg4" />
+   <g
+   id="background"><image
+     id="main-background"
+     xlink:href="/local/community/floorplan/loft001png"
+     href="loft001.png"
+     preserveAspectRatio="none"
+     style="display:block" /><g
+     id="light-overlays"><image
+       id="light_overlay.hue_color_light_1"
+       xlink:href="/local/community/floorplan/loft002.png"
+       href="loft002.png"
+       preserveAspectRatio="none" /><image
+       id="light_overlay.ecran_pc_cha_haut_droite"
+       xlink:href="/local/community/floorplan/loft003.png"
+       href="loft003.png"
+       preserveAspectRatio="none" /><image
+       id="image1"
+       xlink:href="/local/community/floorplan/loft004.png"
+       href="loft004.png"
+       preserveAspectRatio="none" /><image
+       id="image2"
+       xlink:href="/local/community/floorplan/loft005.png"
+       href="loft005.png"
+       preserveAspectRatio="none" /><image
+       id="image3"
+       xlink:href="/local/community/floorplan/loft006.png"
+       href="loft006.png"
+       preserveAspectRatio="none" /><image
+       id="image4"
+       xlink:href="/local/community/floorplan/loft007.png"
+       href="loft007.png"
+       preserveAspectRatio="none" /><image
+       id="image5"
+       xlink:href="/local/community/floorplan/loft008.png"
+       href="loft008.png"
+       preserveAspectRatio="none" /><image
+       id="image6"
+       xlink:href="/local/community/floorplan/loft009.png"
+       href="loft009.png"
+       preserveAspectRatio="none" /><image
+       id="image7"
+       xlink:href="/local/community/floorplan/loft010.png"
+       href="loft010.png"
+       preserveAspectRatio="none" /></g></g><g
+   id="areas"
+   style="display:block"><g
+   id="area.hue_color_light_1"><path
+     style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="m 3130.5605,1565.2802 -11.3464,-7.2204 -0.5157,-46.4168 -0.5157,-227.4427 -367.7249,-246.5252 -650.352,650.352 487.3772,333.6858 -0.5157,70.6568 z"
+     id="path7" /><use
+     id="light.hue_color_light_1"
+     xlink:href="#path7" /></g>
+         <g
+   id="area.ecran_pc_cha_haut_droite"><path
+     style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="m 2750.5868,1037.2883 -376.12,-251.93823 -420.5741,405.24283 v 149.0497 l 298.7441,195.7245 z"
+     id="path8" /><use
+     id="light.ecran_pc_cha_haut_droite"
+     xlink:href="#path8" /></g></g><g
+   stroke="#00adff"
+   id="entities" />
+         <path
+   id="media_player.tv_chambre_a_coucher"
+   d="m 1051.0844,855.10202 1.0315,-80.45592 -196.49813,-123.26259 -2.06297,69.62531 z"
+   style="fill:none; stroke-width:2px; stroke:#0052ff; stroke-linecap:butt; stroke-linejoin:bevel; stroke-opacity:1;" />
+        <path
+   id="media_player.tv_antre_cha"
+   d="m 2364.811,1064.2359 v -80.97171 l 8.3808,-7.60721 186.8279,126.09922 0.3868,80.4559 -9.0255,7.7361 -37.7781,-25.9161 -56.216,-25.5292 -38.165,-37.9072 z"
+   style="fill:none; stroke-width:2px; stroke:#0052ff; stroke-linecap:butt; stroke-linejoin:bevel; stroke-opacity:1;" />
+<path
+   id="binary_sensor.10_191_107_165"
+   d="m 2309.4975,1783.1817 -52.6058,-33.7812 -1.0315,-52.6058 86.387,-80.4559 50.5428,35.3284 0.5158,50.285 z"
+   style="fill:none; stroke-width:2px; stroke:#0052ff; stroke-linecap:butt; stroke-linejoin:bevel; stroke-opacity:1;" />
+<path
+   id="binary_sensor.10_191_107_159"
+   d="m 2309.4975,1783.1817 -52.6058,-33.7812 -1.0315,-52.6058 86.387,-80.4559 50.5428,35.3284 0.5158,50.285 z"
+   style="fill:none; stroke-width:2px; stroke:#0052ff; stroke-linecap:butt; stroke-linejoin:bevel; stroke-opacity:1;" />
+<path
+   id="binary_sensor.sonoff_a48007e0ab"
+   d="m 649.83629,407.69491 -0.25788,-9.79912 11.60422,-11.60422 0.51575,11.34635 z"
+   style="fill:none; stroke-width:2px; stroke:#0052ff; stroke-linecap:butt; stroke-linejoin:bevel; stroke-opacity:1;" />
+
+     <path
+   style="fill:#000000"
+   d="m 1477.3407,1005.6201 289.3778,193.8303 121.6226,-117.4287 104.4824,70.3842 381.461,-367.78521 -525.3294,-352.83315 -107.0352,106.48815 -0.1823,153.16788 -96.6416,92.26541 -0.1824,59.99075 z"
+   id="path1" /><path
+   style="fill:#000000"
+   d="m 1848.681,431.93482 -107.0166,106.75882 v 152.14421 l -96.444,92.83375 -0.2579,60.08407 -167.8743,160.65393 -39.6155,-26.20616 -37.0807,34.52796 0.5471,68.0139 -48.6855,46.1327 -21.8812,-15.4992 -29.2816,28.4134 -216.334,-138.0013 0.1823,-74.94289 -6.0173,-4.19388 v -48.68551 l -369.83954,-250.24184 -46.15901,44.48284 -0.0645,39.77669 -74.25651,-50.64083 V 416.28841 l 35.37448,-34.28043 5.1056,3.8292 347.18052,-336.969333 3.09983,2.188112 0.36468,-14.769759 37.19795,-36.10385729 196.5655,0.18234271 z"
+   id="path2" /><path
+   style="fill:#000000"
+   d="m 1968.5719,2457.4327 -356.1153,-238.3219 481.3848,-468.0737 0.3647,-55.7969 5.6526,-6.0173 489.7725,334.7812 -18.4166,18.0519 v 59.9908 l -365.5972,357.3917 z"
+   id="path3" /><path
+   style="fill:#000000"
+   d="m 1413.5207,2076.8835 427.2953,-416.3197 -29.3974,-19.5983 -0.1289,-17.7931 -23.5953,-16.3749 -347.734,-233.2098 -9.4818,10.2111 -30.2689,-19.8753 -0.096,-204.662 -69.722,-47.8352 -58.3112,57.1186 -0.1289,185.5385 -4.5128,4.5128 -134.8475,-77.8543 -376.51175,366.5415 651.38345,436.3186 z"
+   id="path4" /><path
+   style="fill:#000000"
+   d="m 1352.6182,1126.878 48.5032,-45.7681 -0.3647,-67.9226 37.1068,-34.64513 819.5393,550.21913 -164.1996,165.0202 0.3647,57.5291 -480.1996,465.9768 -199.6653,-137.3041 427.0467,-419.0235 -28.9925,-19.693 v -18.052 l -372.0703,-249.8095 -9.3907,10.0289 -29.7218,-19.6931 V 1159.335 Z"
+   id="path5" /></svg>
